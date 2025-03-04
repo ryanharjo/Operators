@@ -1,2 +1,2 @@
 # Operators
-# A C# programming assignment involviong operators
+# A C# programming assignment involving operators
